@@ -4,7 +4,7 @@ A modern, responsive landing page for the AI Hub project built with React, TypeS
 
 ## Description
 
-The AI Hub Landing Page showcases the key features, installation instructions, and information about the AI Hub platform - an open-source solution for interacting with AI models.
+The AI Hub Landing Page showcases the key features, installation instructions, and information about the AI Hub platform - an open-source solution for interacting with all AI models open and close source (ollama, hugging Face, OpenAI, Anthropic...etc).
 
 ## Screenshots
 
@@ -38,7 +38,9 @@ npm install
 npm run dev
 ```
 
-5. Open your browser and visit `http://localhost:5173` (or the port displayed in your terminal)
+5. Open your browser and visit `http://localhost:5173` (or the port displayed in your terminal).
+
+For the complete setup procedure, please refer to the [README.md of the AI Hub repository](https://github.com/TheWatcher01/ai-hub).
 
 ## Features
 
