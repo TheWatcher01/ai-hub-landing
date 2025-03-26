@@ -8,7 +8,7 @@ The AI Hub Landing Page showcases the key features, installation instructions, a
 
 ## Screenshots
 
-![AI Hub Landing Page](dist/assets/ai-hub.png)
+![AI Hub Landing Page](dist/assets/ai-hub_demo.png)
 
 ## Installation
 

@@ -78,14 +78,15 @@ function App() {
             </div>
           </div>
         </nav>
+
         {/* Hero Section */}
-        <section className="h-screen pt-10">
-          <div className="container mx-auto px-4 h-[calc(100vh-80px)] flex flex-col items-center justify-center">
-            <div className="rounded-xl overflow-hidden shadow-2xl relative max-h-[75vh]">
+        <section className="h-screen pt-16">
+          <div className="container mx-auto px-4 h-full flex items-center justify-center">
+            <div className="relative w-full h-full">
               <img
                 src="dist/assets/ai-hub.png"
                 alt="AI HUB"
-                className="w-full max-h-[75vh] object-contain"
+                className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 flex flex-col items-center justify-end p-6">
                 <div className="flex justify-center space-x-24 mb-4">
@@ -110,6 +111,7 @@ function App() {
             </div>
           </div>
         </section>
+
         {/* Features Section */}
         <section id="features" className="py-20 bg-white dark:bg-gray-800">
           <div className="container mx-auto px-4">
@@ -233,9 +235,9 @@ function App() {
             <div className="max-w-3xl mx-auto">
               <p className="text-gray-600 dark:text-gray-300 mb-8 text-center">
                 AI HUB was born out of the need for a user-friendly and
-                open-source interface to interact with local AI models open and close sources. This
-                project allows the use of advanced AI technologies in a private,
-                secure, and customizable manner.
+                open-source interface to interact with local AI models open and
+                close sources. This project allows the use of advanced AI
+                technologies in a private, secure, and customizable manner.
               </p>
               <p className="text-gray-600 dark:text-gray-300 mb-8 text-center">
                 Developed as part of the portfolio for{" "}
