@@ -231,13 +231,13 @@ function App() {
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-bold text-center mb-12">About</h2>
             <div className="max-w-3xl mx-auto">
-              <p className="text-gray-600 dark:text-gray-300 mb-8">
+              <p className="text-gray-600 dark:text-gray-300 mb-8 text-center">
                 AI HUB was born out of the need for a user-friendly and
-                open-source interface to interact with local AI models. This
+                open-source interface to interact with local AI models open and close sources. This
                 project allows the use of advanced AI technologies in a private,
                 secure, and customizable manner.
               </p>
-              <p className="text-gray-600 dark:text-gray-300 mb-8">
+              <p className="text-gray-600 dark:text-gray-300 mb-8 text-center">
                 Developed as part of the portfolio for{" "}
                 <a
                   href="https://www.holbertonschool.com/"
