@@ -40,7 +40,7 @@ npm run dev
 
 5. Open your browser and visit `http://localhost:5173` (or the port displayed in your terminal).
 
-For the complete setup procedure, please refer to the [README.md of the AI Hub repository](https://github.com/TheWatcher01/ai-hub).
+For the complete setup procedure (AI HUB APP), please refer to the [README.md of the AI Hub repository](https://github.com/TheWatcher01/ai-hub).
 
 ## Features
 
